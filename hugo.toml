@@ -9,4 +9,5 @@ theme = "PaperMod"
   ShowPostNavLinks = true
   
   ShowSummary = false
+  hideSummary = true
 mainSections = ["posts"]
