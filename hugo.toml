@@ -2,3 +2,9 @@ baseURL = "https://suraj-bhadauria.github.io/"
 languageCode = "en-us"
 title = "Suraj Bhadauria"
 theme = "PaperMod"
+
+[params]
+  ShowReadingTime = true
+  ShowShareButtons = true
+
+mainSections = ["posts"]
