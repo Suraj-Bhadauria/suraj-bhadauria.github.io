@@ -1,6 +1,6 @@
 +++
 date = '2026-02-01T01:20:06+05:30'
-draft = true
+draft = false
 title = 'My First Blog'
 +++
 
