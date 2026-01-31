@@ -10,4 +10,6 @@ theme = "PaperMod"
   
   ShowSummary = false
   hideSummary = true
+  customCSS = ["css/extended/custom.css"]
+
 mainSections = ["posts"]

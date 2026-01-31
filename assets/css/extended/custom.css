@@ -1,0 +1,9 @@
+/* Make post titles on home page look clickable */
+.post-entry .entry-header h2 a {
+    color: #4da3ff;      /* soft blue */
+}
+
+.post-entry .entry-header h2 a:hover {
+    color: #7bb8ff;
+    text-decoration: underline;
+}
