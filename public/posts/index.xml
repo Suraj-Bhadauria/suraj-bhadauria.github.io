@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Suraj Bhadauria</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Suraj Bhadauria</description>
+    <generator>Hugo -- 0.155.1</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Feb 2026 01:20:06 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Blog</title>
+      <link>http://localhost:1313/posts/my-first-blog/</link>
+      <pubDate>Sun, 01 Feb 2026 01:20:06 +0530</pubDate>
+      <guid>http://localhost:1313/posts/my-first-blog/</guid>
+      <description>&lt;h1 id=&#34;my-first-blog&#34;&gt;my-first-blog&lt;/h1&gt;
+&lt;p&gt;Hey everyone.&lt;/p&gt;
+&lt;p&gt;This is my first blog. After years of procrastination, today I finally muster up all my courage together to actually start writing blogs. Blogs are an excellent way to share your experience to other people at a scale.&lt;/p&gt;
+&lt;p&gt;After reading a lot of blogs, I found out that there is a gap in blogs for beginners. When I started my computer science journey, I could not find good blogs to guide me. At that time, I saw people saying, “read blogs”, and then when I went to read some blogs, all I found was intermediate blogs, which made a bad picture of blogs in my mind.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
